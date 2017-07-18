@@ -1,0 +1,19 @@
+{
+  "name": "agenda_node_mongo",
+  "version": "1.0.0",
+  "description": "evaluacion final base de datos de NextU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "younglim",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.3"
+  }
+}
